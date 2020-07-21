@@ -1,3 +1,4 @@
 hello jimmy
 dev test
 conflict1
+solve
